@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>ibook notes tool</Name>
+    <Version>1.0.0</Version>
+    <Title>ibook笔记</Title>
+    <Publisher>Caton Hao</Publisher>
+    <StartMenuDir>ibook_tool</StartMenuDir>
+    <TargetDir>@HomeDir@/InstallationDirectory</TargetDir>
+</Installer>
